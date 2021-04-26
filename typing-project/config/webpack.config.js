@@ -408,7 +408,7 @@ module.exports = function (webpackEnv) {
                   ],
                 ],
                 
-                plugins: [
+                plugins: ['react-hot-loader/babel',
                   [
                     require.resolve('babel-plugin-named-asset-import'),
                     {
