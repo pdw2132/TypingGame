@@ -1,6 +1,6 @@
 # TypingGame
 ## 사용 환경설정
-**사용한 언어 : javascript, html, css**   
+**사용한 언어 : javascript, html, css, hbs**   
 **사용 Tool : Vs Code**   
 **사용 Test 라이브러리 : Jest**
 ## 해결방안
