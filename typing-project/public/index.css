@@ -1,0 +1,42 @@
+
+h1,h2,h3 {
+    text-align: center;
+}
+
+.page {
+    top: 30%;
+    left: 40%;
+    width: 400px;
+    display: inline-grid;
+    position: absolute;
+}
+.page p {
+    text-align: center;
+}
+
+.button {
+    margin: 0 auto;
+    display: table;
+}
+.button button{
+    width:200px;
+    height:40px;
+    color:white;
+    background-color:blue;
+    border-color: cornsilk;
+}
+
+#input {
+    position: relative;
+    width: 100%;
+    height: 40px;
+    margin-bottom: 20px;
+}
+
+#time{
+    float: left;
+}
+
+#score{
+    float: right;
+}
